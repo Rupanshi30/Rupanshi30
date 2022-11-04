@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **ranarupanshi30@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/rupan/OneDrive/Desktop/CANADA_APPLICATION/Rupanshi_Resume.pdf](file:///C:/Users/rupan/OneDrive/Desktop/CANADA_APPLICATION/Rupanshi_Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rupanshi rana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rupanshi rana" height="30" width="40" /></a>
