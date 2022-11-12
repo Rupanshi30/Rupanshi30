@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and its libraries like NumPY and PANDAS**
 
-- 💬 Ask me about **Python Core**
+- 💬 Ask me about **Python Core, NumPy, PANDAS**
 
 - 📫 How to reach me **ranarupanshi30@gmail.com**
 
