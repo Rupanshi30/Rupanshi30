@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python and its libraries like NumPY, PANDAS, Matplotlib and Seaborn**
 
-- 💬 Ask me about **Python Core, NumPy, PANDAS**
+- 💬 Ask me about **Python Core, NumPy, PANDAS and Matplotlib**
 
 - 📫 How to reach me **ranarupanshi30@gmail.com**
 
