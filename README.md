@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupanshi30&label=Profile%20views&color=0e75b6&style=flat" alt="rupanshi30" /> </p>
 
-- 🌱 I’m currently learning **Python and its libraries like NumPY and PANDAS**
+- 🌱 I’m currently learning **Python and its libraries like NumPY, PANDAS, Matplotlib and Seaborn**
 
 - 💬 Ask me about **Python Core, NumPy, PANDAS**
 
