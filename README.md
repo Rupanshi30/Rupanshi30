@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupanshi30&label=Profile%20views&color=0e75b6&style=flat" alt="rupanshi30" /> </p>
 
-- 🌱 I’m currently learning **Lunux, Hive and Hadoop**
+- 🌱 I’m currently learning **Linux, Hive and Hadoop**
 
 - 💬 Ask me about **Python Core, NumPy, PANDAS, Matplotlib and Seaborn**
 
