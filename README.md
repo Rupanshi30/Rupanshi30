@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupanshi30&label=Profile%20views&color=0e75b6&style=flat" alt="rupanshi30" /> </p>
 
-- 🌱 I’m currently learning **Python and its libraries like NumPY, PANDAS, Matplotlib and Seaborn**
+- 🌱 I’m currently learning **Lunux, Hive and Hadoop**
 
-- 💬 Ask me about **Python Core, NumPy, PANDAS and Matplotlib**
+- 💬 Ask me about **Python Core, NumPy, PANDAS, Matplotlib and Seaborn**
 
 - 📫 How to reach me **ranarupanshi30@gmail.com**
 
